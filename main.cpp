@@ -1,6 +1,6 @@
 /*******************************************************************************
  * AUTHORS		: Zac Campos & Farah Alfarah
- * STUDENT ID	: 1058476
+ * STUDENT ID	: 1058476	& 1035501
  * LAB #23 		: Functions - Rock Paper Scissors
  * CLASS		: CS1A
  * SECTION		: MW 8am
